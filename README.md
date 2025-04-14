@@ -44,6 +44,8 @@ We developed a lightweight, low-cost solution that:
 5. The Arduino triggers an alert (e.g., buzz or vibration).
 
 ---
+## 🎥 Demo
+https://youtu.be/0CwbkUt7-jk
 
 ## 🔗 References
 The project was inspired by [mecatronic/posture-monitor](https://github.com/mecantronic/posture-monitor).
